@@ -43,4 +43,10 @@ public class Calculation {
 		int mul = num1 * num2;
 		return mul;
 	}
+	
+	public static int div(int num1, int num2)
+	{
+		int div = num1 / num2;
+		return div;
+	}
 } 
