@@ -19,4 +19,10 @@ public class Calculation {
 		int cube = num * num * num;
 		return cube;
 	}
+	
+	public static int findSqr(int num)
+	{
+		int sqr = num * num;
+		return sqr;
+	}
 } 
