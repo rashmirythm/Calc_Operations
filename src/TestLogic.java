@@ -16,4 +16,10 @@ public class TestLogic {
         assertEquals(8,Calculation.findCube(2);  
         assertEquals(27,Calculation.findCube(3);  
     }
+    
+    @Test  
+    public void testFindSqr(){  
+        assertEquals(4,Calculation.findSqr(2);  
+        assertEquals(9,Calculation.findSqr(3);  
+    }
 }
